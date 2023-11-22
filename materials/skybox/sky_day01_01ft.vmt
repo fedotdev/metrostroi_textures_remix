@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "skybox/minsk_sky2ft"
+	$hdrcompressedtexture "skybox/minsk_sky2ft"
+	$nofog 1
+	$ignorez 1
+}

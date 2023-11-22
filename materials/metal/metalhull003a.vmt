@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metalpipe002a"
+	"$bumpmap" "metal/metalpipe002a_n"
+
+	$phong 0
+	$phongboost	.2
+	$phongexponent 160
+	$phongfresnelranges	"[0.5 0.5 0.5]"
+}
+
+//fedordev

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models/metrostroi/signals/text/2"
+	$translucent 1
+	$selfillum 1
+
+
+
+}

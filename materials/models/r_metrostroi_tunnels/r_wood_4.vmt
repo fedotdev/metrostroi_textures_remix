@@ -1,0 +1,16 @@
+VertexlitGeneric
+{
+	"$basetexture"          "models/r_metrostroi_tunnels/r_wood_2"
+	"$bumpmap"				"models/r_metrostroi_tunnels/r_wood_1_n"
+	"$color2" "[ 1 1 1 ]"
+	
+	$phong 1
+	$phongboost	.03
+	$phongfresnelranges	"[.5 1 2]"
+
+	$rimlight 1
+	$rimlightexponent 20
+	$rimlightboost .05
+}
+
+//fedordev

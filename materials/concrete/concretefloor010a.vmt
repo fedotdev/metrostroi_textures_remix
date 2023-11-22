@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/metrostroi_tunnels/tunnelfloor_005"
+	"$bumpmap" "models/metrostroi_tunnels/tunnelfloor_005_n"
+
+	"$detail" "detail/noise_detail_01" 
+	$detailscale 20
+	$detailblendfactor 0.5
+	$detailblendmode 0
+}

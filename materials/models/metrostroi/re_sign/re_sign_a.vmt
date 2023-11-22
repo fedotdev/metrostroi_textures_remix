@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metrostroi/re_sign/re_sign_a"
+	"$bumpmap" "models/metrostroi/re_sign/re_sign_a_norm"
+	$phong 1
+    $phongboost .4
+    $phongfresnelranges "[1 1 1]"
+}

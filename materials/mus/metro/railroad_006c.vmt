@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metrostroi_tunnels/railroad_006c"
+	
+	"$bumpmap" "models/metrostroi_tunnels/railroad_006c_n"
+	"$ssbump" "1"
+
+	"$alphatest" "1"
+	"$alphatestreference" ".01"
+
+	$phong 1
+	$phongboost	.5
+	$phongexponent 50
+	$phongfresnelranges	"[0.5 0.5 0.5]"
+}
+
+//fedordev

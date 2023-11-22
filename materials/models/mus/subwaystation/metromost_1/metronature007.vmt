@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "metrostroi_nature/blendnature005"
+	"$bumpmap" "metrostroi_nature/blendnature005_n"
+	"$color2" "[ 1.5 1.5 1.5 ]"
+}

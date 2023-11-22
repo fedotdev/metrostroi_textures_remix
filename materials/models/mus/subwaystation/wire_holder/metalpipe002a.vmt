@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "metal/metalpipe002a"
+	"$bumpmap" "metal/metalpipe002a_n"
+
+	$phong 1
+	$phongboost	1
+	$phongexponent 0
+	$phongfresnelranges	"[1 1 1]"
+}
+
+//fedordev

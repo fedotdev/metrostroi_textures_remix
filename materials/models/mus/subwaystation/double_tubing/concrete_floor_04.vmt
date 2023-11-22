@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metrostroi_tunnels/tunnelfloor_005"
+	"$bumpmap" "models/metrostroi_tunnels/tunnelfloor_005_n"
+
+	"$detail" "detail/noise_detail_01" 
+	$detailscale 6
+	$detailblendfactor 0.4
+	$detailblendmode 0
+}

@@ -1,0 +1,26 @@
+//"PBR"
+//{
+//  "$basetexture"          "models/metrostroi_tunnels/railroad_002"
+//	"$bumpmap"				"models/metrostroi_tunnels/railroad_002_n"
+//	"$mraotexture"			"models/metrostroi_tunnels/railroad_002_mrao"
+//
+//	"$model"				"1"
+//	"$surfaceprop"      	"metal"
+//}
+
+VertexlitGeneric
+{
+	$basetexture models/metrostroi_tunnels/railroad_002
+	$bumpmap models/metrostroi_tunnels/railroad_002_n
+	
+	$phong 1
+	$phongexponent 100
+	$phongboost	1
+	$phongfresnelranges	"[.5 1 2]"
+
+	$rimlight 1
+	$rimlightexponent 10
+	$rimlightboost .2
+}
+
+//fedordev

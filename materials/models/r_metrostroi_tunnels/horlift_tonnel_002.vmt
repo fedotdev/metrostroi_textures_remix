@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mus/metro/loop/horlift_tonnel"
+	"$bumpmap" "models/mus/metro/loop/horlift_tonnel_n"
+	"$color2" "[ 1 .9 .8 ]"
+}

@@ -1,0 +1,18 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/metrostroi_nature/metronature002"
+	"$bumpmap" "models/metrostroi_nature/metronature002_n"
+	"$color2" "[ 1.5 1.75 1.2 ]"
+}
+
+"WorldVertexTransition"
+{
+	"$basetexture" "models/metrostroi_nature/metronature002"
+	"$baseTexture2" "models/metrostroi_nature/metronature002"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "dirt"
+	"$blendmodulatetexture" "nature/blendtexture01"
+	"%detailtype" "redgrass_light"
+	"%tooltexture" "metrostroi_nature/metronature007"
+
+}

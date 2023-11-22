@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/metrostroi/signals/lense_base_whi_lod_3"
+	"$color2" "[ 7 2 0 ]" //yellow
+	"$additive" 1
+}

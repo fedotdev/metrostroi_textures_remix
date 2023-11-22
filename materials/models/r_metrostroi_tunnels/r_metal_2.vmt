@@ -1,0 +1,22 @@
+VertexlitGeneric
+{
+	"$basetexture"          "models/r_metrostroi_tunnels/r_metal_2"
+	"$bumpmap"				"models/r_metrostroi_tunnels/r_metal_2_n"
+	"$color2" "[ .6 .6 .6 ]"
+	
+	$phong 1
+	
+	$phongexponenttexture "models/r_metrostroi_tunnels/r_metal_2_p"
+	$phongboost	5
+	$phongfresnelranges	"[2 1 1]"
+
+	$rimlight 1
+	$rimlightexponent 10
+	$rimlightboost .05
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.2 .2 .2]"
+}
+
+//fedordev

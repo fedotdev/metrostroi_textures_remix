@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metrostroi_tunnels/tunnelwall_005"
+	"$bumpmap" "models/metrostroi_tunnels/tunnelwall_005_n"
+}

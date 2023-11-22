@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mus/metro/loop/blast_germ_gate_1"
+	"$bumpmap" "models/mus/metro/loop/blast_germ_gate_1_n"
+
+	$phong 1
+	$phongexponent 30
+	$phongexponenttexture "models/mus/metro/loop/blast_germ_gate_1_p"
+	$phongboost	.5
+	$phongfresnelranges	"[.5 1 2]"
+
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/metrostroi_tunnels/tunnelwall_003"
+	"$bumpmap" "models/metrostroi_tunnels/tunnelwall_003_n"
+}

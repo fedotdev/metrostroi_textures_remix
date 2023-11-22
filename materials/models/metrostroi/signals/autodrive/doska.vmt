@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/metrostroi/signals/autodrive/doska"
+	"$phong" "1"
+	
+	"$bumpmap"				"models/metrostroi/signals/autodrive/doska_n"
+	"$phongboost"				1
+	"$phongfresnelranges"		"[0.3 0.3 0.3]"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.05 0.05 0.05]"
+}

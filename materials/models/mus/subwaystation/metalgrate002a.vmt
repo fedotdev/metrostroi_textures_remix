@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture"          "metal/metalgrate002a"
+	"$bumpmap"				"metal/metalgrate002a_n"
+	"$alphatest" "1"
+
+	$phong 1
+	$phongexponent 50
+	$phongboost	1.5
+	$phongfresnelranges	"[1.9 .4 1.9]"
+
+}
+
+//fedordev
