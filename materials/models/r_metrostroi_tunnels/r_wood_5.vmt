@@ -1,7 +1,7 @@
 VertexlitGeneric
 {
-	"$basetexture"          "models/r_metrostroi_tunnels/r_wood_1"
-	"$bumpmap"				"models/r_metrostroi_tunnels/r_wood_1_n"
+	"$basetexture"          "models/r_metrostroi_tunnels/r_wood_5"
+	"$bumpmap"				"models/r_metrostroi_tunnels/r_wood_5_n"
 	"$color2" "[ 1 1 1 ]"
 	
 	$phong 1

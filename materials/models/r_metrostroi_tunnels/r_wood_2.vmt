@@ -2,7 +2,7 @@ VertexlitGeneric
 //Станционные
 {
 	"$basetexture"          "models/r_metrostroi_tunnels/r_wood_2"
-	"$bumpmap"				"models/r_metrostroi_tunnels/r_wood_1_n"
+	"$bumpmap"				"models/r_metrostroi_tunnels/r_wood_2_n"
 	"$color2" "[ 1 1 1 ]"
 	
 	$phong 1

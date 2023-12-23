@@ -21,7 +21,6 @@ VertexlitGeneric
 	$phongfresnelranges	"[.5 1 2]"
 	
 	$envmap "env_cubemap"
-	$normalmapalphaenvmapmask 1
 	$envmaptint "[.2 .2 .2]"
 }
 

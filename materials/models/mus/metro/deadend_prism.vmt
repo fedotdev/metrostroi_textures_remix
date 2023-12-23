@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mus/metro/deadend_prism"
+	"$bumpmap" "models/mus/metro/deadend_prism_n"
+	"$selfillum" "1"
+}
