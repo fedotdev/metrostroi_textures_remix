@@ -1,6 +1,6 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "metro/metroconcrete006_var1"
-	"$bumpmap" "metro/metroconcrete006_var1_n"
+	"$basetexture" "models/metrostroi_tunnels/metroconcrete006_var1"
+	"$bumpmap" "models/metrostroi_tunnels/metroconcrete006_var1_n"
 	"$color2" "[ 1 1 1 ]"
 }

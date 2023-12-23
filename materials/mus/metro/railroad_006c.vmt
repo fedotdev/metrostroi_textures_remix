@@ -1,6 +1,7 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "models/metrostroi_tunnels/railroad_006c"
+	"surfaceprop" "rubber"
 	
 	"$bumpmap" "models/metrostroi_tunnels/railroad_006c_n"
 	"$ssbump" "1"
