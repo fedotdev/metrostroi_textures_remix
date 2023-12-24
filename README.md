@@ -26,4 +26,4 @@ Added support for Phong, Specular and more in materials.
 
 **The addon does _NOT_ add or replace models and their UVs! Only materials and textures.**
 
-**If the problem is with black models, then restart the game.**
+**If you have a problem with black models, restart the game.**
