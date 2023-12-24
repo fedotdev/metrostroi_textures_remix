@@ -1,7 +1,7 @@
 ![metrostroi_remix_github](https://github.com/fedotdev/metrostroi_textures_remix/assets/44346544/714ab23e-3ade-4070-aec0-0671ca5a117d)
 ## Retexture project for [Metrostroi](https://github.com/metrostroi-repo/MetrostroiAddon)
 
-[![Project in Steam Workshop](https://github.com/fedotdev/metrostroi_textures_remix/assets/44346544/24313303-cf6b-46f8-a39d-0e017fedb23d)](youtube.com/watch?v=VTbpfj0GQu8)
+[![Project in Steam Workshop](https://github.com/fedotdev/metrostroi_textures_remix/assets/44346544/24313303-cf6b-46f8-a39d-0e017fedb23d)](https://steamcommunity.com/sharedfiles/filedetails/?id=3121809812)
  
 [![VK group](https://github.com/fedotdev/metrostroi_textures_remix/assets/44346544/d4158296-df2c-4ee1-9ce6-1900a88a34f9)](https://vk.com/metropack)
  
