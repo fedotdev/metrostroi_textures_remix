@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\concrete_fence_01/crete_zabor"
+	"$bumpmap" "models\concrete_fence_01/crete_zabor_n"
+}
