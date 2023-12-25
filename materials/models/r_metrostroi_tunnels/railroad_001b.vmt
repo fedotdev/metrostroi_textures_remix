@@ -13,7 +13,6 @@ VertexlitGeneric
 {
 	$basetexture models/metrostroi_tunnels/railroad_001
 	$bumpmap models/metrostroi_tunnels/railroad_001_n
-	$alphatest 1
 	
 	$phong 1
 	$phongexponenttexture models/metrostroi_tunnels/railroad_001_p
