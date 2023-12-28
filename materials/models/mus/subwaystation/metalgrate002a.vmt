@@ -2,6 +2,7 @@
 {
 	"$basetexture"          "metal/metalgrate002a"
 	"$bumpmap"				"metal/metalgrate002a_n"
+	"$color2" "[ .8 .8 .8 ]"
 	"$alphatest" "1"
 
 	$phong 1

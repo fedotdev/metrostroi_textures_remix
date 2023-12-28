@@ -1,12 +1,16 @@
-"LightmappedGeneric"
+"VertexLitGeneric"
 {
 	"$basetexture" "metal/metalpipe002a"
 	"$bumpmap" "metal/metalpipe002a_n"
 
-	"$detail" "detail/noise_detail_01" 
+	$phong 1
+	$phongboost	.1
+	$phongexponent 20
+	$phongfresnelranges	"[1 1 1]"
+
+	$detail detail/noise_detail_01
 	$detailscale 32
 	$detailblendfactor -0.5
 	$detailblendmode 0
 }
-
 //fedordev

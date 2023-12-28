@@ -1,14 +1,3 @@
-//"PBR"
-//{
-//	"$alphatest" "0"
-//  "$basetexture"          "models/metrostroi_tunnels/railroad_001"
-//	"$bumpmap"				"models/metrostroi_tunnels/railroad_001_n"
-//	"$mraotexture"			"models/metrostroi_tunnels/railroad_001_mrao"
-//
-//	"$model"				"1"
-//	"$surfaceprop"      	"metal"
-//}
-
 VertexlitGeneric
 {
 	$basetexture models/metrostroi_tunnels/railroad_001
@@ -21,7 +10,7 @@ VertexlitGeneric
 	$phongfresnelranges	"[.5 1 2]"
 	
 	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
 	$envmaptint "[.2 .2 .2]"
 }
-
 //fedordev

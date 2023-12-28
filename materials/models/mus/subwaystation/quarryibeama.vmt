@@ -2,12 +2,11 @@
 {
 	"$basetexture" "metal/metalpipe002a"
 	"$bumpmap" "metal/metalpipe002a_n"
-	"$color2" "[ .8 .8 .8 ]"
+	"$color2" "[ .65 .65 .65 ]"
 
 	$phong 1
-	$phongboost	.3
+	$phongboost	.2
 	$phongexponent 20
 	$phongfresnelranges	"[1 1 1]"
 }
-
 //fedordev

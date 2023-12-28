@@ -1,26 +1,16 @@
-//"PBR"
-//{
-//  "$basetexture"          "models/metrostroi_tunnels/railroad_002"
-//	"$bumpmap"				"models/metrostroi_tunnels/railroad_002_n"
-//	"$mraotexture"			"models/metrostroi_tunnels/railroad_002_mrao"
-//
-//	"$model"				"1"
-//	"$surfaceprop"      	"metal"
-//}
-
 VertexlitGeneric
 {
-	$basetexture models/metrostroi_tunnels/railroad_002
-	$bumpmap models/metrostroi_tunnels/railroad_002_n
+	$basetexture models/metrostroi_tunnels/railroad_002a
+	//_002a created for replacing _002 files integrated into .bsp
+	$bumpmap models/metrostroi_tunnels/railroad_002a_n
 	
 	$phong 1
-	$phongexponent 100
+	$phongexponent 90
 	$phongboost	1
-	$phongfresnelranges	"[.5 1 2]"
+	$phongfresnelranges	"[.1 .5 1]"
 
 	$rimlight 1
 	$rimlightexponent 10
 	$rimlightboost .2
 }
-
 //fedordev

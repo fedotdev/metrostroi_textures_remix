@@ -1,18 +1,16 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/metrostroi_tunnels/railroad_006c"
-	"surfaceprop" "rubber"
-	
-	"$bumpmap" "models/metrostroi_tunnels/railroad_006c_n"
+	"$basetexture" "models/metrostroi_tunnels/railroad_006e" 
+	//_006e created for replacing _006c files integrated into .bsp
+	"$bumpmap" "models/metrostroi_tunnels/railroad_006e_n"
 	"$ssbump" "1"
 
 	"$alphatest" "1"
-	"$alphatestreference" ".01"
+	"$alphatestreference" ".05"
 
 	$phong 1
-	$phongboost	.5
-	$phongexponent 50
-	$phongfresnelranges	"[0.5 0.5 0.5]"
+	$phongboost	.3
+	$phongexponent 5
+	$phongfresnelranges	"[.4 .4 .6]"
 }
-
 //fedordev
