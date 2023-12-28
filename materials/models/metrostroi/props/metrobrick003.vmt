@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "metro/metrobrick003"
+	"$color2" "[ .7 .7 .7 ]"
+	"$bumpmap" "metro/metrobrick003_n"
+	
+}

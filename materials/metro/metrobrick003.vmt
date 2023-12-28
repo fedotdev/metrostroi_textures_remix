@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metro/metrobrick003"
+	"$color" "[ .7 .7 .7 ]"
+	"$bumpmap" "metro/metrobrick003_n"
+	
+}

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metalfloor010a"
+	"$bumpmap" "metal/metalfloor010a_n"
+	"surfaceprop" "metal"
+
+	$phong 1
+	$phongexponent 5
+
+}
