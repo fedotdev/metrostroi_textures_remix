@@ -11,6 +11,6 @@ VertexlitGeneric
 	
 	$envmap "env_cubemap"
 	$normalmapalphaenvmapmask 1
-	$envmaptint "[.2 .2 .2]"
+	$envmaptint "[.4 .4 .4]"
 }
 //fedordev

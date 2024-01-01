@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mus/metro_door_staff"
+	"$bumpmap" "models/mus/metro_door_staff_n"
+
+	$phong 1
+	$phongboost	.5
+	$phongexponent 30
+	$phongfresnelranges	"[1 1 1]"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.3 .3 .3]"
+}
+//fedordev

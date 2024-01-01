@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metalpipe002a"
+	"$color" "[ .6 .6 .6 ]"
+	"$bumpmap" "metal/metalpipe002a_n"
+
+}
+//fedordev

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mus/depo/stairway"
+	"$bumpmap" "models/mus/depo/stairway_n"
+
+	$phong 1
+	$phongboost	.2
+	$phongexponenttexture "models/mus/depo/stairway_pe"
+	$phongexponent 20
+	$phongfresnelranges	"[1 1 1]"
+}
+//fedordev
