@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/metrostroi/signals/lense_base_whi_lod_2"
-	"$color2" "[ .5 1 2.5 ]" //blue
-	"$additive" 1
-}

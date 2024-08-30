@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/metrostroi/signals/lense_base_whi"
-	"$selfillum" "1"
-	"$selfillumtint" "[ .5 1 10 ]" //blue slt
-}

@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-
-	$basetexture "models/metrostroi/signals/pui/pui"
-	$bumpmap "models/metrostroi/signals/pui/npm"
-
-
-}
